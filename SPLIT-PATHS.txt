@@ -1,4 +1,0 @@
-c_Circus/carto
-c_Circus/games
-c_Circus/movies
-c_Circus/music
