@@ -5,6 +5,7 @@
   "label": "CG-circus",
   "code": "2.2.1.1",
   "kind": "repo",
+  "variant": "repo",
   "description": "Front group c_Circus (split from front-projects, #1072)",
   "visibility": "public",
   "url": "https://github.com/diegonmarcos/CG-circus",
