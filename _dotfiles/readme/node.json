@@ -1,0 +1,73 @@
+{
+  "schema": "readme-node/v1",
+  "generated_by": "_git-repos-master readme-render.js nodeData() from projects-repos.json; DO NOT EDIT (node repos-sot.js sync-readmes)",
+  "name": "CG-circus",
+  "label": "CG-circus",
+  "code": "2.2.1.1",
+  "kind": "repo",
+  "description": "Front group c_Circus (split from front-projects, #1072)",
+  "visibility": "public",
+  "url": "https://github.com/diegonmarcos/CG-circus",
+  "developer": "Leaf.y",
+  "farm": "2.CG",
+  "breadcrumb": [
+    {
+      "code": "2",
+      "kind": "area",
+      "label": "CG",
+      "icon": "🎮"
+    },
+    {
+      "code": "2.2",
+      "kind": "project",
+      "label": "Zirkus",
+      "icon": "🎪"
+    },
+    {
+      "code": "2.2.1",
+      "kind": "family",
+      "label": "Production",
+      "icon": ""
+    }
+  ],
+  "hub": {
+    "name": "CG-___",
+    "code": "2.0",
+    "url": "https://github.com/diegonmarcos/CG-___"
+  },
+  "base_dir": "git",
+  "members": [],
+  "tree": [
+    "├── 0_deployer (submodule)",
+    "├── 0_hub/",
+    "│   └── CG-___ (submodule)",
+    "├── c_Circus/",
+    "│   ├── carto/",
+    "│   │   ├── dist/",
+    "│   │   └── src/",
+    "│   ├── games/",
+    "│   │   ├── .claude/",
+    "│   │   ├── 0.spec/",
+    "│   │   ├── 1.ops/",
+    "│   │   ├── dist/",
+    "│   │   ├── src/",
+    "│   │   └── static/",
+    "│   └── others/",
+    "│       ├── dist/",
+    "│       ├── public/",
+    "│       └── src/",
+    "├── Game-Production/",
+    "│   ├── GDevelop/",
+    "│   ├── Godot/",
+    "│   └── Unity/",
+    "├── Music-Production/",
+    "│   ├── Music-DAW/",
+    "│   │   ├── dist/",
+    "│   │   └── src/",
+    "│   └── Music-Mixer/",
+    "│       ├── dist/",
+    "│       └── src/",
+    "└── Video-Production/",
+    "    └── Higgsfield/"
+  ]
+}
