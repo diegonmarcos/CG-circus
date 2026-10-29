@@ -3,4 +3,10 @@
 Sources of the `c_Circus` group (carto, games, others (myAstro moved to cloud-me-profiles, #1218); movies, music, myfeed moved to cloud-webapps-2 c_Suite, #1204; front-circus renamed CG-circus), split from diegonmarcos/front-projects (#1072, which itself was split from diegonmarcos.github.io). Paths mirror the original layout (`c_Circus/...` at the repo root). The Pages workflow of diegonmarcos.github.io checks this repo out over its workspace and publishes it.
 History stays in diegonmarcos.github.io (snapshot copy). `SPLIT-PATHS.txt` lists the overlaid paths.
 
-`a-Lfy_CG-Zirkus/` (music projects) was moved with history from Projects-labtools (#1259).
+`a-Lfy_CG-Zirkus/` (music projects, moved with history from Projects-labtools, #1259) is now laid out as master folders (#1280), display names in each README:
+
+- `Music-Production/` ("MUSIC PRODUCTION"): `Music-DAW/` ("Music - DAW", LMMS app), `Music-Mixer/` ("Music -Mixer", Mixxx app)
+- `Video-Production/` ("VIDEO PRODUCTION"): `Higgsfield/` ("Higgsfield", AI video platform)
+- `Game-Production/` ("GAME PRODUCTION"): `Unity/`, `Godot/`, `GDevelop/`
+
+The web mini-games in `c_Circus/games` are not engine projects and stay in place.
